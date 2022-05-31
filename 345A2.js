@@ -37,5 +37,6 @@ const register = () =>{
     alert("Please entry the user detail")
 
 
+
 }
 
