@@ -31,23 +31,9 @@ const exit = () =>{
      document.getElementById("bg").style.display = "none";
 }
 const register = () =>{
-    const givenname_value = document.getElementById("givenname").value;
-    const surname_value = document.getElementById("surname").value;
-    const username_value = document.getElementById("username").value;
-    const password_value = document.getElementById("password").value;
-    const homeaddress_value = document.getElementById("homeaddress").value;
-    const workaddress_value = document.getElementById("workaddress").value;
-    const mobilenumber_value = document.getElementById("mobilenumber").value;
-    const email_value = document.getElementById("email1").value;
+    document.getElementById("register_button").style.background = "#F25F82";
+    alert("Please entry the user detail")
 
-    if (givenname_value == "" | surname_value == "" | password_value == "" | username_value == "" | homeaddress_value =="" | workaddress_value == "" | mobilenumber_value == "" | email_value == ""){
-        alert("Please entry the user detail")
-    }
-    else{
-        document.getElementById("register_button").style.background = "#F25F82";
-        alert("Register Successful")
-
-    }
 
 }
 
