@@ -29,6 +29,8 @@ const open_register = () =>{
 const exit = () =>{
      document.getElementById("register").style.display = "none";
      document.getElementById("bg").style.display = "none";
+     document.getElementById("register_button").style.background = "#73B76E";
+
 }
 const register = () =>{
     document.getElementById("register_button").style.background = "#F25F82";
