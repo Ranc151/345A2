@@ -44,8 +44,9 @@ const register = () =>{
         alert("Please entry the user detail")
     }
     else{
+        document.getElementById("register_button").style.background = "#F25F82";
         alert("Register Successful")
-        document.getElementById("register").style.display = "none";
+
     }
 
 }
