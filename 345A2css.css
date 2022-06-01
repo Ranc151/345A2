@@ -1,14 +1,14 @@
 @font-face {
     font-family: "IM-FELL-Great-Primer-SC";
-    src: url("./font/IM-FELL-Great-Primer-SC.ttf");
+    src: url("IM-FELL-Great-Primer-SC.ttf");
 }
 @font-face {
     font-family: "AbhayaLibre-ExtraBold";
-    src: url("./font/AbhayaLibre-ExtraBold.ttf");
+    src: url("AbhayaLibre-ExtraBold.ttf");
 }
 @font-face {
     font-family: "actor-regular";
-    src: url("./font/actor.regular.ttf");
+    src: url("actor.regular.ttf");
 }
 body{
     position: absolute;
