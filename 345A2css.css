@@ -48,7 +48,7 @@ body{
     height: 90px;
     left: -10px;
     top: 970px;
-    background: rgba(87, 166, 57, 0.8);
+    background: rgba(195, 227, 241, 0.6);
 }
 #line{
     position: absolute;
@@ -64,7 +64,7 @@ body{
     height: 19px;
     left: -10px;
     top: 1061px;
-    background: rgba(87, 166, 57, 0.8);
+    background: rgba(195, 227, 241, 0.6);
 }
 #navigation_png{
     position: absolute;
